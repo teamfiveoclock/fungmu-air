@@ -5,7 +5,6 @@ import { ReactComponent as DownIcon } from '../../assets/down_light.svg';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { ReactComponent as PrevIcon } from '../../assets/prev.svg';
 import { ReactComponent as PrevActiveIcon } from '../../assets/prev_active.svg';
-import { ReactComponent as NextIcon } from '../../assets/next.svg';
 import { ReactComponent as NextActiveIcon } from '../../assets/next_active.svg';
 
 const Container = styled.div`
